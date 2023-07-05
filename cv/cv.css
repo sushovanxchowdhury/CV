@@ -1,0 +1,40 @@
+.img{
+position: absolute;
+  top: 10%;
+  left: 7%;
+}
+
+.up-txt{
+position: absolute;
+  top: 20%;
+  right: 50%;
+}
+
+.bg-color{
+height: 435px;
+width: 100%;
+background-color: #f3edf1;
+
+}
+.line-2{
+position: absolute;
+  top: 15%;
+color:brown;
+}
+.line-2{
+position: absolute;
+  top: 60%;
+color:brown;
+}
+
+.p-1{
+position: absolute;
+  top: 70%;
+  left: 7%;
+}
+
+.p-2{
+position: absolute;
+  top: 70%;
+  right: 20%;
+}
